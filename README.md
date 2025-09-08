@@ -84,4 +84,4 @@ This portfolio demonstrates my skills in **Python, SQL, Power BI, and Machine Le
 
 💡 Always open to collaboration & feedback!  
 
-📫 Connect with me: [LinkedIn](#) | [Email](#)  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/suraj-n-prasad-207b9532a/) | [Email](sp46594659@gmail.com)  
