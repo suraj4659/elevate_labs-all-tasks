@@ -1,4 +1,4 @@
-# 📊 Data Analytics & Machine Learning Portfolio  
+# 📊 Data Analytics & Machine Learning Portfolio(all-tasks)
 
 Welcome to my **project portfolio** 🚀  
 This repository is my **central hub** for data analytics, visualization, and machine learning projects.  
